@@ -25,6 +25,9 @@ We (Alexander and Gernot, the authors) apologize for all these errors.
 They should have been detected and fixed prior to printing the book - but we failed.
 
 #### Page 118: x- and y-axis
+<small>
+Error found and reported by Ulrich Cech.
+</small>
 
 Original text:
 
@@ -32,7 +35,11 @@ Original text:
 
 It should have been calles "y-axis" - time usually flows downward in sequence diagrams.
 
-#### Chapter 3.3.2
+
+#### Chapter 3.3.2: Component Diagrams in Sample Question
+<small>
+Error found and reported by Ulrich Cech.
+</small>
 
 
 >K-question: For each of the following statements about static UML diagrams chose if it is true or false.
