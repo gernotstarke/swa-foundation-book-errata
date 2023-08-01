@@ -33,7 +33,7 @@ Original text:
 
 >Sequence diagrams show the order of the interaction visually by using the vertical x-axis of the diagram to represent time."
 
-It should have been calles "y-axis" - time usually flows downward in sequence diagrams.
+It should have been called "y-axis" - time usually flows downward in sequence diagrams.
 
 
 #### Chapter 3.3.2: Component Diagrams in Sample Question
