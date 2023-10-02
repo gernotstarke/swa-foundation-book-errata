@@ -38,7 +38,7 @@ It should have been called "y-axis" or just "vertical axis" - time usually flows
 
 #### Chapter 3.3.2: Component Diagrams in Sample Question
 <small>
-Error found and reported by Ulrich Cech.
+Error found and reported by Ulrich Cech. This error also appears in the 1st edition.
 </small>
 
 
@@ -47,5 +47,6 @@ Error found and reported by Ulrich Cech.
 >|----|----|----|
 >| x  |  | Package- and component diagrams should be avoided in software architecture, as they tend to be overly abstract.
 
-The "x" was printed in the wrong column. Component diagrams are very useful in diagramming or modeling software architectures.
+The "x" was printed in the wrong column. Component diagrams are indeed **very useful** in diagramming or modeling software architectures.
+So the correct answer here should be "false".
 
