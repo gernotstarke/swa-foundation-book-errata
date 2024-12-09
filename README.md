@@ -50,3 +50,18 @@ Error found and reported by Ulrich Cech. This error also appears in the 1st edit
 The "x" was printed in the wrong column. Component diagrams are indeed **very useful** in diagramming or modeling software architectures.
 So the correct answer here should be "false".
 
+
+#### Page 28, 35, 108: Reference to the "Appropriateness" section
+<small>
+Error found and reported by Safa Keskin.
+</small>
+
+Original text:
+
+>See Part III "Appropriateness" on page 159
+
+or
+
+>See Part III, "Appropriateness" on page 159
+
+Page number should be corrected to 161, hence the "Appropriateness" section is placed on that page.
